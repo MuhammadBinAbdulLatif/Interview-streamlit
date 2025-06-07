@@ -1,6 +1,9 @@
 # AI Interview Bot
 
 A Streamlit web app that simulates a real-time job interview using Google Gemini (Generative AI). The bot acts as an HR executive, asks you interview questions based on your background, and provides actionable feedback at the end.
+# Live Demo
+[Test the app for yourself](https://interview-app-wn8ecngahukfmkkss57arz.streamlit.app/)
+
 
 ## Features
 - Interactive interview simulation with a conversational UI
